@@ -10,6 +10,7 @@ function Skills() {
         <li>CSS</li>
         <li>MySql</li>
         <li>TypeScript</li>
+        <li>React</li>
         <li>Jira</li>
         <li>Critical Thinking</li>
         <li>Problem Solving</li>
